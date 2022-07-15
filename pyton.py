@@ -7,3 +7,5 @@ time.sleep(1)
 
 for ny in en:
     print(ny)
+    
+print(ny for ny in en)
